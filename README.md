@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Salim Hidayat
+<marquee>GalaxyBuilder</marquee>
+- Hi, I’m GalaxyBuilder! Nice To Meet You👋
 - 👀 I’m interested in Coding And Designing
 - 🌱 I’m currently learning A C Language
 - 📫 Find me on Facebook, Twitter, Or Instagram
