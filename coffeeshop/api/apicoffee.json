@@ -2,7 +2,7 @@
     {
         "id" : "1",
         "product_name": "Espresso",
-        "description": "Small bitter beverage that  spreads all flavor notes",
+        "description": "Small bitter beverage that spreads all flavor notes",
         "product_image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
         "price": "3.00"
     },
