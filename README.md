@@ -1,50 +1,64 @@
-# Project Title 📝
-A brief description of what this project does and who it's for
+# 👋 Welcome to **GalaxyBuilder-oss's GitHub Profile!** 🚀  
 
-## Licenses
+🌟 **Hi there! I'm GalaxyBuilder, a passionate developer with a love for building scalable, efficient, and innovative software solutions.**  
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+---
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+## 🛠 **About Me**  
+I'm a versatile software engineer with experience across multiple programming languages and frameworks. My journey in tech revolves around learning, building, and sharing knowledge. I enjoy solving complex problems, contributing to open-source projects, and creating software that makes a difference.  
 
-## 🚀 About Me
-I'm a full stack developer...
+---
 
-# Hi, I’m GalaxyBuilder! Nice To Meet You 👋
-- 👀 I’m interested in Coding And Designing
+## 💻 **Tech Stack**  
 
-## 🛠 Skills
-Javascript, HTML, CSS, C, JAVA...
+### 🔹 Programming Languages  
+- **JavaScript** (including **TypeScript**)  
+- **Java**  
+- **.NET** (C#)  
+- **Python**  
+- **PHP**  
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+### 🔹 Frameworks & Tools  
+- **Spring Boot** (Java)  
+- **Laravel** (PHP)  
+- **ASP.NET** (.NET)  
+- **Express** (Node.js)  
+- **Next.js** (React)  
+- **Flask** (Python)  
 
-## Used By
+---
 
-This project is used by the following companies:
+## 🚀 **What I Do**  
+- **Backend Development**: Crafting scalable APIs, services, and applications.  
+- **Frontend Development**: Designing intuitive user interfaces and improving user experience.  
+- **Full Stack Engineering**: Combining backend and frontend expertise to build end-to-end solutions.  
+- **Open Source Contribution**: Sharing my work with the community and collaborating on meaningful projects.  
 
-- Company 1
-- Company 2
+---
 
-## FAQ
+## 📈 **GitHub Stats**  
+![GalaxyBuilder-oss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GalaxyBuilder-oss&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyBuilder-oss&layout=compact&theme=radical)  
 
-#### Question 1
+---
 
-Answer 1
+## 🌱 **What I'm Learning**  
+I'm constantly improving my skills and exploring new technologies to stay ahead of the curve. Currently, I'm diving deeper into:  
+- **Microservices Architecture**  
+- **Cloud Technologies** (AWS)  
+- **DevOps Practices**  
 
-#### Question 2
+---
 
-Answer 2
+## 🔗 **Connect with Me**  
+- 💼 **[LinkedIn](#)** (Add your LinkedIn profile link)  
+- 📫 **Email**: (Add your email address)  
+- 🌐 **Portfolio**: [My Portofolio](https://galaxybuilder.vercel.app)  
 
-## Feedback
+---
 
-If you have any feedback, please reach out to us at fake@fake.com
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
 
-<!---
-GalaxyBuildersis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Let me know if you'd like to add more sections or links! 😊  
