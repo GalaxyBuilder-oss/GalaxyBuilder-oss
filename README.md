@@ -1,6 +1,8 @@
+---
+
 # 👋 Welcome to **GalaxyBuilder-oss's GitHub Profile!** 🚀  
 
-🌟 **Hi there! I'm GalaxyBuilder, a passionate developer with a love for building scalable, efficient, and innovative software solutions.**  
+🌟 **Hi there! I'm GalaxyBuilder-oss, a passionate developer with a love for building scalable, efficient, and innovative software solutions.**  
 
 ---
 
@@ -51,8 +53,8 @@ I'm constantly improving my skills and exploring new technologies to stay ahead 
 ---
 
 ## 🔗 **Connect with Me**  
-- 💼 **[LinkedIn](#)** (Add your LinkedIn profile link)  
-- 📫 **Email**: (Add your email address)  
+- 💼 **[LinkedIn](#)** [Salim Hidayat](https://www.linkedin.com/in/salim-hidayat-049b35293/)  
+- 📫 **Email**: hidayatsalim004@outlook.com  
 - 🌐 **Portfolio**: [My Portofolio](https://galaxybuilder.vercel.app)  
 
 ---
@@ -60,5 +62,3 @@ I'm constantly improving my skills and exploring new technologies to stay ahead 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
 
 ---
-
-Let me know if you'd like to add more sections or links! 😊  
