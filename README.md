@@ -53,9 +53,9 @@ I'm constantly improving my skills and exploring new technologies to stay ahead 
 ---
 
 ## 🔗 **Connect with Me**  
-- 💼 **[LinkedIn](https://www.linkedin.com/in/salim-hidayat-049b35293/)**  
-- 📫 **Email**: hidayatsalim004@outlook.com  
-- 🌐 **[Portfolio](https://galaxybuilder.verce.app)**  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/salim-hidayat-049b35293/
+- 📫 **Email**: hidayatsalim004@outlook.com
+- 🌐 **Portfolio**: https://galaxybuilder.vercel.app
 
 ---
 
