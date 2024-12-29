@@ -61,6 +61,8 @@ I'm constantly improving my skills and exploring new technologies to stay ahead 
 
 ---
 
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DGalaxyBuilder%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/GalaxyBuilder)
+
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
 
 ---
