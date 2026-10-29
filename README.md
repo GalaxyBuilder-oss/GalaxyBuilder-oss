@@ -39,8 +39,9 @@ I'm a versatile software engineer with experience across multiple programming la
 ---
 
 ## 📈 **GitHub Stats**  
-![GalaxyBuilder-oss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GalaxyBuilder-oss&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyBuilder-oss&layout=compact&theme=radical)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GalaxyBuilder-oss&show_icons=true&theme=radical)](https://github.com/GalaxyBuilder-oss)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyBuilder-oss&layout=compact&theme=radical)](https://github.com/GalaxyBuilder-oss)
+
 ---
 
 ## 🌱 **What I'm Learning**  
@@ -54,8 +55,9 @@ I'm constantly improving my skills and exploring new technologies to stay ahead 
 
 ## 🔗 **Connect with Me**  
 - 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/salim-hidayat-049b35293/)
-- 📫 **Email**: hidayatsalim004@outlook.com
-- 🌐 **Portfolio**: [My Portfolio](https://galaxybuilder.netlify.app)
+- 📫 **Email**: [hidayatsalim004@outlook.com](mailto:hidayatsalim004@outlook.com)
+- 🌐 **Portfolio**: [galaxybuilder.netlify.app](https://galaxybuilder.netlify.app)
+- 🐙 **GitHub**: [github.com/GalaxyBuilder-oss](https://github.com/GalaxyBuilder-oss)
 
 ---
 
