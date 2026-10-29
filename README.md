@@ -39,8 +39,8 @@ I'm a versatile software engineer with experience across multiple programming la
 ---
 
 ## 📈 **GitHub Stats**  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GalaxyBuilder-oss&show_icons=true&theme=radical)](https://github.com/GalaxyBuilder-oss)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyBuilder-oss&layout=compact&theme=radical)](https://github.com/GalaxyBuilder-oss)
+![GalaxyBuilder-oss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GalaxyBuilder-oss&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyBuilder-oss&layout=compact&theme=radical) 
 
 ---
 
